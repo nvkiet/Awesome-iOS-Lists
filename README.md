@@ -1,5 +1,5 @@
-# iOS Awesome Lists
-A collection of iOS awesome lists.
+# Awesome iOS Lists
+A collection of awesome iOS lists.
 
 ## Awesome Lists
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
